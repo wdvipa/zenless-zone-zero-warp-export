@@ -1,4 +1,4 @@
-# 星穹铁道跃迁记录导出工具
+# 绝区零调频记录导出工具
 
 中文 | [English](https://github.com/biuuu/star-rail-warp-export/blob/main/docs/README_EN.md)
 
